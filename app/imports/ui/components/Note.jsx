@@ -21,7 +21,6 @@ class Note extends React.Component {
 
 /** Require a document to be passed to this component. */
 Note.propTypes = {
-  contact: PropTypes.object.isRequired,
   note: PropTypes.object.isRequired,
 };
 
