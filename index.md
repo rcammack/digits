@@ -50,7 +50,7 @@ Or you can sign into an existing account by clicking on "Login" then "Sign in".
 
 <h3>Home Page</h3>
 
-Once logged in, the system takes you to the user's home page.  This is nearly identical to the landing page, but the NavBar contains links to list contact and add new contact pages.
+Once logged in, the system takes you to the user's home page.  This is nearly identical to the landing page, but the NavBar contains links to List Contacts and Add Contact pages.
 
 <img src="doc/userHome.png">
 
