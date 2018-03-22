@@ -1,6 +1,3 @@
- #Digits
-
- 
 <img src="doc/landing.png">
  
 Digits is an application that allows users to: 
@@ -69,5 +66,3 @@ From the List Contacts page, you can edit the information associated with a cont
 Initially, one default admin user is created; however, there can by more than one users with the admin role.  Admin users have access to a special NavBar link "Admin" that retrieves a page listing all Contacts associated with all users.  
 
 <img src="doc/admin.png">
-
- Source: <a href="https://github.com/rcammack/digits"><i class="large github icon"></i>View on Github</a>
