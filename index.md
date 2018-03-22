@@ -72,6 +72,6 @@ From the List Contacts page, you can edit the information associated with a cont
 
 <h3>Admin User</h3>
 
-Initially, one default admin user is created; however, there can by more than one users with the admin role.  Admin users have access to a special NavBar link "Admin" that retrieves a page listing all Contacts associated with all users.  
+Initially, one default admin user is created; however, there can by more than one users with the admin role.  Admin users have access to a special NavBar link "Admin" that retrieves a page listing all contacts associated with all users.  
 
 <img src="doc/admin.png">
